@@ -1,0 +1,14 @@
+D:\TAP\dotnet\collectionApp\bin\Debug\net10.0\collectionApp.exe
+D:\TAP\dotnet\collectionApp\bin\Debug\net10.0\collectionApp.deps.json
+D:\TAP\dotnet\collectionApp\bin\Debug\net10.0\collectionApp.runtimeconfig.json
+D:\TAP\dotnet\collectionApp\bin\Debug\net10.0\collectionApp.dll
+D:\TAP\dotnet\collectionApp\bin\Debug\net10.0\collectionApp.pdb
+D:\TAP\dotnet\collectionApp\obj\Debug\net10.0\collectionApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\TAP\dotnet\collectionApp\obj\Debug\net10.0\collectionApp.AssemblyInfoInputs.cache
+D:\TAP\dotnet\collectionApp\obj\Debug\net10.0\collectionApp.AssemblyInfo.cs
+D:\TAP\dotnet\collectionApp\obj\Debug\net10.0\collectionApp.csproj.CoreCompileInputs.cache
+D:\TAP\dotnet\collectionApp\obj\Debug\net10.0\collectionApp.dll
+D:\TAP\dotnet\collectionApp\obj\Debug\net10.0\refint\collectionApp.dll
+D:\TAP\dotnet\collectionApp\obj\Debug\net10.0\collectionApp.pdb
+D:\TAP\dotnet\collectionApp\obj\Debug\net10.0\collectionApp.genruntimeconfig.cache
+D:\TAP\dotnet\collectionApp\obj\Debug\net10.0\ref\collectionApp.dll
