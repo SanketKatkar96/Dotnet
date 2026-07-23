@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TAP\\dotnet\\collectionApp\\collectionApp.csproj",
+      "projectUniqueName": "D:\\Github\\Dotnet\\collectionApp\\collectionApp.csproj",
       "projectName": "collectionApp",
-      "projectPath": "D:\\TAP\\dotnet\\collectionApp\\collectionApp.csproj",
+      "projectPath": "D:\\Github\\Dotnet\\collectionApp\\collectionApp.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\TAP\\dotnet\\collectionApp\\obj\\",
+      "outputPath": "D:\\Github\\Dotnet\\collectionApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
