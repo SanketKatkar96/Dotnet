@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\TAP\\dotnet\\ProductCatelogApi\\ProductCatelogApi.csproj": {}
+    "D:\\Github\\Dotnet\\ProductCatelogApi\\ProductCatelogApi.csproj": {}
   },
   "projects": {
-    "D:\\TAP\\dotnet\\ProductCatelogApi\\ProductCatelogApi.csproj": {
+    "D:\\Github\\Dotnet\\ProductCatelogApi\\ProductCatelogApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\TAP\\dotnet\\ProductCatelogApi\\ProductCatelogApi.csproj",
+        "projectUniqueName": "D:\\Github\\Dotnet\\ProductCatelogApi\\ProductCatelogApi.csproj",
         "projectName": "ProductCatelogApi",
-        "projectPath": "D:\\TAP\\dotnet\\ProductCatelogApi\\ProductCatelogApi.csproj",
+        "projectPath": "D:\\Github\\Dotnet\\ProductCatelogApi\\ProductCatelogApi.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\TAP\\dotnet\\ProductCatelogApi\\obj\\",
+        "outputPath": "D:\\Github\\Dotnet\\ProductCatelogApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

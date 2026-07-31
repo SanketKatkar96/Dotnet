@@ -504,11 +504,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TAP\\dotnet\\HRAsyncWebApi\\HRAsyncWebApi.csproj",
+      "projectUniqueName": "D:\\Github\\Dotnet\\HRAsyncWebApi\\HRAsyncWebApi.csproj",
       "projectName": "HRAsyncWebApi",
-      "projectPath": "D:\\TAP\\dotnet\\HRAsyncWebApi\\HRAsyncWebApi.csproj",
+      "projectPath": "D:\\Github\\Dotnet\\HRAsyncWebApi\\HRAsyncWebApi.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\TAP\\dotnet\\HRAsyncWebApi\\obj\\",
+      "outputPath": "D:\\Github\\Dotnet\\HRAsyncWebApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
