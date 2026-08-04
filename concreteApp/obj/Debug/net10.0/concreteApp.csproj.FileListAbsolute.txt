@@ -1,0 +1,14 @@
+D:\TAP\dotnet\concreteApp\bin\Debug\net10.0\concreteApp.exe
+D:\TAP\dotnet\concreteApp\bin\Debug\net10.0\concreteApp.deps.json
+D:\TAP\dotnet\concreteApp\bin\Debug\net10.0\concreteApp.runtimeconfig.json
+D:\TAP\dotnet\concreteApp\bin\Debug\net10.0\concreteApp.dll
+D:\TAP\dotnet\concreteApp\bin\Debug\net10.0\concreteApp.pdb
+D:\TAP\dotnet\concreteApp\obj\Debug\net10.0\concreteApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\TAP\dotnet\concreteApp\obj\Debug\net10.0\concreteApp.AssemblyInfoInputs.cache
+D:\TAP\dotnet\concreteApp\obj\Debug\net10.0\concreteApp.AssemblyInfo.cs
+D:\TAP\dotnet\concreteApp\obj\Debug\net10.0\concreteApp.csproj.CoreCompileInputs.cache
+D:\TAP\dotnet\concreteApp\obj\Debug\net10.0\concreteApp.dll
+D:\TAP\dotnet\concreteApp\obj\Debug\net10.0\refint\concreteApp.dll
+D:\TAP\dotnet\concreteApp\obj\Debug\net10.0\concreteApp.pdb
+D:\TAP\dotnet\concreteApp\obj\Debug\net10.0\concreteApp.genruntimeconfig.cache
+D:\TAP\dotnet\concreteApp\obj\Debug\net10.0\ref\concreteApp.dll
