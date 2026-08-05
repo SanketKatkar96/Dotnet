@@ -1,0 +1,14 @@
+D:\TAP\dotnet\SingletoneApp\obj\Debug\net10.0\SingletoneApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\TAP\dotnet\SingletoneApp\obj\Debug\net10.0\SingletoneApp.AssemblyInfoInputs.cache
+D:\TAP\dotnet\SingletoneApp\obj\Debug\net10.0\SingletoneApp.AssemblyInfo.cs
+D:\TAP\dotnet\SingletoneApp\obj\Debug\net10.0\SingletoneApp.csproj.CoreCompileInputs.cache
+D:\TAP\dotnet\SingletoneApp\bin\Debug\net10.0\SingletoneApp.exe
+D:\TAP\dotnet\SingletoneApp\bin\Debug\net10.0\SingletoneApp.deps.json
+D:\TAP\dotnet\SingletoneApp\bin\Debug\net10.0\SingletoneApp.runtimeconfig.json
+D:\TAP\dotnet\SingletoneApp\bin\Debug\net10.0\SingletoneApp.dll
+D:\TAP\dotnet\SingletoneApp\bin\Debug\net10.0\SingletoneApp.pdb
+D:\TAP\dotnet\SingletoneApp\obj\Debug\net10.0\SingletoneApp.dll
+D:\TAP\dotnet\SingletoneApp\obj\Debug\net10.0\refint\SingletoneApp.dll
+D:\TAP\dotnet\SingletoneApp\obj\Debug\net10.0\SingletoneApp.pdb
+D:\TAP\dotnet\SingletoneApp\obj\Debug\net10.0\SingletoneApp.genruntimeconfig.cache
+D:\TAP\dotnet\SingletoneApp\obj\Debug\net10.0\ref\SingletoneApp.dll
