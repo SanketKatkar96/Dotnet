@@ -1,0 +1,14 @@
+D:\TransFlower\dotnet\ExtentionMethod\bin\Debug\net10.0\ExtentionMethod.exe
+D:\TransFlower\dotnet\ExtentionMethod\bin\Debug\net10.0\ExtentionMethod.deps.json
+D:\TransFlower\dotnet\ExtentionMethod\bin\Debug\net10.0\ExtentionMethod.runtimeconfig.json
+D:\TransFlower\dotnet\ExtentionMethod\bin\Debug\net10.0\ExtentionMethod.dll
+D:\TransFlower\dotnet\ExtentionMethod\bin\Debug\net10.0\ExtentionMethod.pdb
+D:\TransFlower\dotnet\ExtentionMethod\obj\Debug\net10.0\ExtentionMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\TransFlower\dotnet\ExtentionMethod\obj\Debug\net10.0\ExtentionMethod.AssemblyInfoInputs.cache
+D:\TransFlower\dotnet\ExtentionMethod\obj\Debug\net10.0\ExtentionMethod.AssemblyInfo.cs
+D:\TransFlower\dotnet\ExtentionMethod\obj\Debug\net10.0\ExtentionMethod.csproj.CoreCompileInputs.cache
+D:\TransFlower\dotnet\ExtentionMethod\obj\Debug\net10.0\ExtentionMethod.dll
+D:\TransFlower\dotnet\ExtentionMethod\obj\Debug\net10.0\refint\ExtentionMethod.dll
+D:\TransFlower\dotnet\ExtentionMethod\obj\Debug\net10.0\ExtentionMethod.pdb
+D:\TransFlower\dotnet\ExtentionMethod\obj\Debug\net10.0\ExtentionMethod.genruntimeconfig.cache
+D:\TransFlower\dotnet\ExtentionMethod\obj\Debug\net10.0\ref\ExtentionMethod.dll
