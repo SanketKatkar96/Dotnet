@@ -1,0 +1,14 @@
+D:\TransFlower\dotnet\SafeCode\bin\Debug\net10.0\SafeCode.exe
+D:\TransFlower\dotnet\SafeCode\bin\Debug\net10.0\SafeCode.deps.json
+D:\TransFlower\dotnet\SafeCode\bin\Debug\net10.0\SafeCode.runtimeconfig.json
+D:\TransFlower\dotnet\SafeCode\bin\Debug\net10.0\SafeCode.dll
+D:\TransFlower\dotnet\SafeCode\bin\Debug\net10.0\SafeCode.pdb
+D:\TransFlower\dotnet\SafeCode\obj\Debug\net10.0\SafeCode.GeneratedMSBuildEditorConfig.editorconfig
+D:\TransFlower\dotnet\SafeCode\obj\Debug\net10.0\SafeCode.AssemblyInfoInputs.cache
+D:\TransFlower\dotnet\SafeCode\obj\Debug\net10.0\SafeCode.AssemblyInfo.cs
+D:\TransFlower\dotnet\SafeCode\obj\Debug\net10.0\SafeCode.csproj.CoreCompileInputs.cache
+D:\TransFlower\dotnet\SafeCode\obj\Debug\net10.0\SafeCode.dll
+D:\TransFlower\dotnet\SafeCode\obj\Debug\net10.0\refint\SafeCode.dll
+D:\TransFlower\dotnet\SafeCode\obj\Debug\net10.0\SafeCode.pdb
+D:\TransFlower\dotnet\SafeCode\obj\Debug\net10.0\SafeCode.genruntimeconfig.cache
+D:\TransFlower\dotnet\SafeCode\obj\Debug\net10.0\ref\SafeCode.dll
