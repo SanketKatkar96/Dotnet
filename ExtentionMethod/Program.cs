@@ -7,9 +7,7 @@
   startDate=DateTime.Today.AddMonths(-10),
   endDate =DateTime.Today.AddDays(30),
   isActive= true  
-
 };
-
 Console.WriteLine("Hello, World!");
 Console.WriteLine (policy.isValid());
 Console.WriteLine(policy.DadysRemaining());
