@@ -7,8 +7,6 @@ public class AuthController : Controller
 {
     
     //action methods:
-
-
     [HttpGet]
     public IActionResult Login()
     {
