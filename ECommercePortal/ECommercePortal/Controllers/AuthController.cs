@@ -4,7 +4,6 @@ namespace ECommercePortal.Controllers;
 
 public class AuthController : Controller
 {
-    
     //action methods:
     [HttpGet]
     public IActionResult Login()
@@ -34,7 +33,6 @@ public class AuthController : Controller
     [HttpGet]
     public IActionResult Register()
     {
-
         Customer customer = new Customer();
         customer.Name = "";
         customer.Email = "";
