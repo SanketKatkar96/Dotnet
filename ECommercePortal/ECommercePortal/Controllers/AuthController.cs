@@ -2,8 +2,7 @@ using Microsoft.AspNetCore.Mvc;
 using ECommercePortal.Models;
 namespace ECommercePortal.Controllers;
 
-public class AuthController : Controller
-{
+public class AuthController : Controller{
     //action methods:
     [HttpGet]
     public IActionResult Login()
