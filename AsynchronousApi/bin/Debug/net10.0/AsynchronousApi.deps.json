@@ -1,14 +1,11 @@
 {
-  "runtimeTarget": 
-  {
+  "runtimeTarget": {
     "name": ".NETCoreApp,Version=v10.0",
     "signature": ""
   },
   "compilationOptions": {},
-  "targets":
-  {
-    ".NETCoreApp,Version=v10.0": 
-    {
+  "targets":{
+    ".NETCoreApp,Version=v10.0": {
       "AsynchronousApi/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.OpenApi": "10.0.9"
