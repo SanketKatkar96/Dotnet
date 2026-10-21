@@ -1,12 +1,16 @@
 {
   "format": 1,
-  "restore": {
+  "restore": 
+  {
     "D:\\TAP\\dotnet\\FileIo\\FileIo.csproj": {}
   },
-  "projects": {
-    "D:\\TAP\\dotnet\\FileIo\\FileIo.csproj": {
+  "projects": 
+  {
+    "D:\\TAP\\dotnet\\FileIo\\FileIo.csproj": 
+    {
       "version": "1.0.0",
-      "restore": {
+      "restore": 
+      {
         "projectUniqueName": "D:\\TAP\\dotnet\\FileIo\\FileIo.csproj",
         "projectName": "FileIo",
         "projectPath": "D:\\TAP\\dotnet\\FileIo\\FileIo.csproj",
