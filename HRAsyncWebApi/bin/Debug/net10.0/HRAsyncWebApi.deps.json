@@ -1,13 +1,18 @@
 {
-  "runtimeTarget": {
+  "runtimeTarget":
+  {
     "name": ".NETCoreApp,Version=v10.0",
     "signature": ""
   },
   "compilationOptions": {},
-  "targets": {
-    ".NETCoreApp,Version=v10.0": {
-      "HRAsyncWebApi/1.0.0": {
-        "dependencies": {
+  "targets": 
+  {
+    ".NETCoreApp,Version=v10.0": 
+    {
+      "HRAsyncWebApi/1.0.0": 
+      {
+        "dependencies": 
+        {
           "Microsoft.AspNetCore.OpenApi": "10.0.9",
           "Swashbuckle.AspNetCore": "10.2.3"
         },
