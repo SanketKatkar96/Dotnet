@@ -1,13 +1,18 @@
 {
-  "runtimeTarget": {
+  "runtimeTarget": 
+  {
     "name": ".NETCoreApp,Version=v10.0",
     "signature": ""
   },
   "compilationOptions": {},
-  "targets": {
-    ".NETCoreApp,Version=v10.0": {
-      "SafeCode/1.0.0": {
-        "runtime": {
+  "targets": 
+  {
+    ".NETCoreApp,Version=v10.0": 
+    {
+      "SafeCode/1.0.0": 
+      {
+        "runtime": 
+        {
           "SafeCode.dll": {}
         }
       }
