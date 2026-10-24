@@ -1,18 +1,13 @@
 {
-  "runtimeTarget": 
-  {
+  "runtimeTarget": {
     "name": ".NETCoreApp,Version=v9.0",
     "signature": ""
   },
   "compilationOptions": {},
-  "targets": 
-  {
-    ".NETCoreApp,Version=v9.0": 
-    {
-      "EventDelegateProbStmt/1.0.0": 
-      {
-        "runtime": 
-        {
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "EventDelegateProbStmt/1.0.0": {
+        "runtime": {
           "EventDelegateProbStmt.dll": {}
         }
       }
